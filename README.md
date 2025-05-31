@@ -43,6 +43,58 @@ I’m a Data Engineer with over 5 years of experience in data analytics, modelin
 
 ---
 
+### 💼 Professional Experience
+
+<!-- Microsoft -->
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" height="25"/>
+  <strong>Microsoft – Data Engineer</strong>  
+  <br><em>Dec 2024 – Present | Redmond, WA</em>
+</p>
+<ul>
+  <li>Built scalable pipelines using Azure Data Factory impacting 750M+ devices</li>
+  <li>Designed Power BI dashboards integrated with Azure DevOps metrics</li>
+  <li>Automated data ingestion with Python & KQL for real-time analytics</li>
+</ul>
+
+<!-- AA Paper Group -->
+<p align="left">
+  <img src="https://img.icons8.com/color/48/paper.png" height="25"/>
+  <strong>AA Paper Group – Data Analyst</strong>  
+  <br><em>Sep 2023 – Nov 2024 | Remote</em>
+</p>
+<ul>
+  <li>Optimized supply chain with SQL, reducing logistics costs by 15%</li>
+  <li>Forecasted inventory using Python ML models, cutting overstock by 10%</li>
+  <li>Built financial reports in Power BI and Excel for real-time visibility</li>
+</ul>
+
+<!-- Microsoft Analyst -->
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" height="25"/>
+  <strong>Microsoft – Data Analyst </strong>  
+  <br><em>Dec 2019 – Aug 2021</em>
+</p>
+<ul>
+  <li>Analyzed 1B+ records with KQL to uncover Xbox engagement insights</li>
+  <li>Built Airflow pipelines across Azure Synapse & Databricks</li>
+  <li>Conducted A/B tests to improve player engagement & campaign targeting</li>
+</ul>
+
+<!-- Dell -->
+<p align="left">
+  <img src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/122021/logo_dell_technologies-01.jpg?l58fm9ZkWlkOfmYU9t0oeW2sbZcnQ5io&itok=7KT2OBna" height="40"/>
+  <strong>Dell Technologies – Business Analyst</strong>  
+  <br><em>Aug 2017 – Oct 2019</em>
+</p>
+<ul>
+  <li>Monitored inbound call performance with Tableau & ServiceNow</li>
+  <li>Improved SLA attainment by 10% through data-driven staffing models</li>
+  <li>Created Snowflake-powered dashboards to inform leadership strategy</li>
+</ul>
+
+---
+
 ### 📈 Featured Project
 
 [🚖 Uber Pickup Clustering – NYC](https://gitanjali988.github.io/Uber-Pickup-in-NYC/)  
