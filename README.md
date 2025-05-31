@@ -112,7 +112,4 @@ Clustering and heatmap visualizations of 14M+ Uber pickups in NYC using KMeans, 
 ### 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/gitanjali-fnu/)
-- 📄 [Resume (PDF)](https://github.com/Gitanjali988/Uber-Pickup-in-NYC/raw/main/Fnu_Gitanjali_Resume_2025.pdf)
 
-
-//![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gitanjali988&show_icons=true&theme=gruvbox)
