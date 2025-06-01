@@ -101,6 +101,8 @@ I’m a Data Engineer with over 5 years of experience in data analytics, modelin
 [🚖 Uber Pickup Clustering – NYC](https://gitanjali988.github.io/Uber-Pickup-in-NYC/)  
 Clustering and heatmap visualizations of 14M+ Uber pickups in NYC using KMeans, DBSCAN, and OPTICS.
 
+[🧬 Skin Cancer Classification using Topology and CNN](https://github.com/Gitanjali988/Skin-Cancer-Detection-Using-Topology-and-CNN/)
+
 ---
 
 ### 🎓 Education
