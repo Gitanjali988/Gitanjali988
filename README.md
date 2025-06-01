@@ -111,7 +111,20 @@ Clustering and heatmap visualizations of 14M+ Uber pickups in NYC using KMeans, 
 - B.E. in Information Science – BIET
 
 ---
+### 🏅 Kaggle Achievements
 
+I'm an active contributor on [Kaggle](https://www.kaggle.com/your-kaggle-username) with badges in:
+
+[![Datasets](https://img.shields.io/badge/Kaggle_Datasets-Bronze-orange?style=flat&logo=kaggle)](https://www.kaggle.com/gitanjalisinghh)
+[![Competitions](https://img.shields.io/badge/Kaggle_Competitions-Tier_2-blue?style=flat&logo=kaggle)](https://www.kaggle.com/gitanjalisinghh)
+[![Notebooks](https://img.shields.io/badge/Kaggle_Notebooks-Bronze-orange?style=flat&logo=kaggle)](https://www.kaggle.com/gitanjalisinghh)
+[![Kaggle Learn](https://img.shields.io/badge/Kaggle_Learn-Yellow-yellowgreen?style=flat&logo=kaggle)](https://www.kaggle.com/gitanjalisinghh)
+[![Getting Started](https://img.shields.io/badge/Getting_Started_Competitor-green?style=flat&logo=rocket)](https://www.kaggle.com/gitanjalisinghh)
+[![Python Coder](https://img.shields.io/badge/Python_Coder-purple?style=flat&logo=python)](https://www.kaggle.com/gitanjalisinghh)
+
+💡 **Highlighted Badge**: `Dataset Creator` — Recognized for publishing meaningful data for public use.
+
+---
 ### 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/gitanjali-fnu/)
