@@ -1,4 +1,5 @@
 # 👋 Hi there, I'm Fnu Gitanjali
+![License: All Rights Reserved](https://img.shields.io/badge/license-All--Rights--Reserved-red)
 
 🎯 Data Engineer | Data Analyst 
 
@@ -112,4 +113,20 @@ Clustering and heatmap visualizations of 14M+ Uber pickups in NYC using KMeans, 
 ### 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/gitanjali-fnu/)
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gitanjali988&show_icons=true&theme=radical)
+
+
+#### 🔒 License
+
+Copyright (c) 2025 Fnu Gitanjali. All Rights Reserved.  
+This profile and its content (including text, images, and media) may not be copied, reused, or distributed without written permission.
+
+For inquiries: gitanjali.gitu72@gmail.com
+
+
+
+
 
