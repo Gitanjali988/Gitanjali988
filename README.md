@@ -3,7 +3,7 @@
 
 🎯 Data Engineer | Data Analyst 
 
-📍 Seattle, WA | 🌐 Open to opportunities | 🛠️ Building data solutions with real-world impact
+📍Seattle, WA | 🌐 Open to opportunities | ✈️ Open to relocation | 🛠️ Building data solutions with real-world impact
 
 ---
 
