@@ -5,8 +5,9 @@
 
 📍Seattle, WA | 🌐 Open to opportunities | ✈️ Open to relocation | 🛠️ Building data solutions with real-world impact
 
----
+### My Portfolio 👉 [Fnu Gitanjali](https://fnu-gitanjali-8didl4d.gamma.site/)
 
+---
 ### 🌟 About Me
 
 I’m a Data Engineer with over 5 years of experience in data analytics, modeling, and visualization. I specialize in designing scalable data pipelines and streamlining data workflows to drive business insights. My expertise spans Azure Data Factory, SQL, KQL, Python, Statistics, and Machine Learning alongside advanced reporting tools like Power BI and Tableau. I’m passionate about transforming complex data into meaningful stories, developing robust ETL processes, and delivering solutions that support smarter decision-making across organizations.
