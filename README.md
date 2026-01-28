@@ -10,7 +10,7 @@
 ---
 ### 🌟 About Me
 
-I’m a Data Engineer with over 5 years of experience in data analytics, modeling, and visualization. I specialize in designing scalable data pipelines and streamlining data workflows to drive business insights. My expertise spans Azure Data Factory, SQL, KQL, Python, Statistics, and Machine Learning alongside advanced reporting tools like Power BI and Tableau. I’m passionate about transforming complex data into meaningful stories, developing robust ETL processes, and delivering solutions that support smarter decision-making across organizations.
+I’m a Sr Data Analyst with over 5 years of experience in data analytics, modeling, and visualization. I specialize in designing scalable data pipelines and streamlining data workflows to drive business insights. My expertise spans Azure Data Factory, SQL, KQL, BigQuery, Python, Statistics, and Machine Learning, as well as advanced reporting tools such as Power BI and Tableau. I’m passionate about transforming complex data into meaningful stories, developing robust ETL processes, and delivering solutions that support smarter decision-making across organizations.
 
 ---
 
