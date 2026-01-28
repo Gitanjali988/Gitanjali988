@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Fnu Gitanjali
 ![License: All Rights Reserved](https://img.shields.io/badge/license-All--Rights--Reserved-red)
 
-🎯 Data Engineer | Data Analyst 
+🎯 Senior Data Analyst | Data Engineer  
 
 📍Seattle, WA | 🌐 Open to opportunities | ✈️ Open to relocation | 🛠️ Building data solutions with real-world impact
 
