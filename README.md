@@ -1,9 +1,9 @@
 # 👋 Hi there, I'm Fnu Gitanjali
 ![License: All Rights Reserved](https://img.shields.io/badge/license-All--Rights--Reserved-red)
 
-🎯 Senior Data Analyst | Data Engineer  
+Senior Data Analyst | Data Engineer  
 
-📍Seattle, WA | 🌐 Open to opportunities | ✈️ Open to relocation | 🛠️ Building data solutions with real-world impact
+📍Irvine, CA | 🌐 Open to opportunities | ✈️ Open to relocation | 🛠️ Building data solutions with real-world impact
 
 ### My Portfolio 👉 [Fnu Gitanjali](https://fnu-gitanjali-8didl4d.gamma.site/)
 
