@@ -108,8 +108,8 @@ Clustering and heatmap visualizations of 14M+ Uber pickups in NYC using KMeans, 
 
 ### 🎓 Education
 
-- M.S. in Data Science – Stevens Institute of Technology (GPA: 3.8)  
-- B.E. in Information Science – BIET
+- M.S. in Data Science – Stevens Institute of Technology (GPA: 3.83 / 4.0)  
+- Bachelor in Information Science and Engineering – BIET
 
 ---
 ### 🏅 Kaggle Achievements
