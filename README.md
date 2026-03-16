@@ -140,7 +140,7 @@ I'm an active contributor on [Kaggle](https://www.kaggle.com/your-kaggle-usernam
 Copyright (c) 2025 Fnu Gitanjali. All Rights Reserved.  
 This profile and its content (including text, images, and media) may not be copied, reused, or distributed without written permission.
 
-For inquiries: gitanjali.gitu72@gmail.com
+For inquiries: gitanjali.gitu72@gmail.com or g.geetofficial@gmail.com
 
 
 
